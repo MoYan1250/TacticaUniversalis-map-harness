@@ -6,7 +6,7 @@ CSGO 電競俱樂部模擬遊戲 Tactica Universalis 的地圖碰撞設計工具
 
 遊戲本體：[TacticaUniversalis](https://github.com/MoYan1250/TacticaUniversalis)
 
-## 怎麼放
+## 放置指向
 
 這兩個腳本放在遊戲專案的 `Tools/map_collision`。遊戲根目錄是此資料夾往上兩層。碰撞快取寫到 `Tools/map_collision_cache`，預覽寫到 `Tools/map_collision_out`。
 
